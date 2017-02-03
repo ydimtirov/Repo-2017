@@ -1,6 +1,6 @@
-# Python Experiments
+# Python Codes
 
-Experiments in NLP, Deep Learning, Reinforcement Learning and Artificial Intelligence
+Codes in NLP, Deep Learning, Reinforcement Learning and Artificial Intelligence
 
 <b> Welcome to my GitHub repo. </b>
 
@@ -20,6 +20,8 @@ I am a Data Scientist and I code in R, Python and Wolfram Mathematica. Here you 
 
 <b> Hyperparameter Tuning RL </b> is a model where hyperparameters of Neural Networks are adjusted via Reinforcement Learning. According to a reward, hyperparameter tuning (environment) is changed through a policy (mechanization of knowledge) using the Boston Dataset. Hyperparameters tuned are: learning rate, epochs, decay, momentum, number of hidden layers and nodes and initial weights.
 
+<b> Keras Regularization L2 </b> is a Neural Network model for regression made with Keras where a L2 regularization was applied to prevent overfitting.
+
 <b> Lasagne Neural Nets Regression </b> is a Neural Network model based in Theano and Lasagne, that makes a linear regression with a continuous target variable and reaches 99.4% accuracy. It uses the DadosTeseLogit.csv sample file.
 
 <b> Lasagne Neural Nets + Weights </b> is a Neural Network model based in Theano and Lasagne, where is possible to visualize weights between X1 and X2 to hidden layer. Can also be adapted to visualize weights between hidden layer and output. It uses the DadosTeseLogit.csv sample file.
@@ -35,5 +37,7 @@ I am a Data Scientist and I code in R, Python and Wolfram Mathematica. Here you 
 <b> NLP Sentiment Positive </b> is a model that identifies website content as positive, neutral or negative using BeautifulSoup and NLTK libraries, plotting the results. 
 
 <b> Text-to-Speech </b> is a .py file where Python speaks any given text and saves it as an audio .wav file.
+
+<b> Time Series Prediction with Neural Networks - Keras </b> is a Neural Network model to forecast time series, using Keras with an adaptive learning rate depending upon derivative of loss.
 
 <b> Variational Autoencoder </b> is a VAE made with Keras.
